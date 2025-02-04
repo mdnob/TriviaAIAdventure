@@ -6,3 +6,4 @@ node_modules/
 
 # Vite dependencies
 .vite/
+.idea/
