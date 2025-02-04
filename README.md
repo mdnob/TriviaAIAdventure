@@ -27,13 +27,13 @@ AI-powered multiplayer trivia game using the Open AI GPT-4 engine
 ## Quick Look
 
 <div style="display: flex; gap: 0px;">
-   <img src="./pictures/home.png" alt="Homepage" style="width: 50%;" />
-   <img src="./pictures/room.png" alt="Room Page" style="width: 50%;" />
+   <img src="./pictures/home.png" alt="Homepage" style="width: 45%;" />
+   <img src="./pictures/room.png" alt="Room Page" style="width: 45%;" />
 </div>
 
 <div style="display: flex; gap: 0px;">
-   <img src="./pictures/play.png" alt="Play Page" style="width: 50%;" />
-   <img src="./pictures/how.png" alt="How-to Page" style="width: 50%;" />
+   <img src="./pictures/play.png" alt="Play Page" style="width: 45%;" />
+   <img src="./pictures/how.png" alt="How-to Page" style="width: 45%;" />
 </div>
 
 
