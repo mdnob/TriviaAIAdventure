@@ -1,7 +1,7 @@
 <img src="./pictures/logo.png" alt="Trivia AI Adventure" width="256" />
 
 
-# TriviaAIAdventure
+# Trivia AI Adventure
 AI-powered multiplayer trivia game using the Open AI GPT-4 engine
 
 ## Features
